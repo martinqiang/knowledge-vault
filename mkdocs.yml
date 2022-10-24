@@ -3,20 +3,27 @@ site_description: Personal vault of knowledge
 site_author: Martin Q
 theme:
     name: material
+    font:
+      text: Roboto
+    features:
+      - content.code.annotate
     palette:
         # Palette toggle for light mode
       - scheme: default
-        primary: dark-blue
+        primary: 
         toggle:
             icon: material/brightness-7 
             name: Switch to dark mode
 
             # Palette toggle for dark mode
       - scheme: slate
-        primary: dark-blue
+        primary: blue
         toggle:
             icon: material/brightness-4
             name: Switch to light mode
+plugins:
+  - tags
+  - search
 markdown_extensions:
   - pymdownx.superfences:
       custom_fences:
@@ -25,6 +32,12 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.highlight:
+      use_pygments: true
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6

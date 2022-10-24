@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "270cff29c5d51567",
+    "type": "split",
+    "children": [
+      {
+        "id": "53aca41f11ddb07c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6df75b25be0df8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f117dc4022e65c44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6595af6169d4904b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ca1a4c1033ffe44",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d573a837cc7c9053",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4eca80c806c5c1e8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216.5
+  },
+  "right": {
+    "id": "6980415d61cd3948",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c72441dc3209de3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "617db276b9888edc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba61c1c497d8ce70",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16d0b2072890b3b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "53aca41f11ddb07c",
+  "lastOpenFiles": [
+    "_res/c-handbook.pdf",
+    "Programming/C.md",
+    "Programming/00 Content.md",
+    "C.md",
+    "010 Markdown Basics.md",
+    "Firmware/RTOS.md",
+    "Hardware/Serial Communication Interfaces/RS232.md",
+    "Hardware/Hardware Design/Resources.md",
+    "000 Index.md",
+    "Hardware/Serial Communication Interfaces/CAN.md"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "0bf760bbb6238590",
+    "type": "split",
+    "children": [
+      {
+        "id": "22f8ac54b7d052f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0e71183529e9782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/010 Markdown Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6b1c343afc85cde",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3a20d8e044d41b93",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "38238131ee933fe7",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a9f6da3360458e99",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f1e327fac3defa88",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "57009a2121116cc4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4b6c88f8676545d6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "docs/010 Markdown Basics.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8a11191f805e41f6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "docs/010 Markdown Basics.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c9a5f827bb34bd25",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "docs/010 Markdown Basics.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "d0e71183529e9782",
+  "lastOpenFiles": [
+    "README.md",
+    "docs/010 Markdown Basics.md",
+    "docs/000 Index.md",
+    "010 Markdown Basics.md",
+    "000 Index.md",
+    "Hardware/00 Contents.md",
+    "Control Systems.md",
+    "Hardware/Cypress PSOC.md",
+    "Computer Architecture/Harvard vs Neumann Architecture.md",
+    "Computer Architecture/Finite State Machines.md"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "270cff29c5d51567",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ded86a45091d096",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b16c94249d62dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/010 Markdown Basics.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6df75b25be0df8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f117dc4022e65c44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6595af6169d4904b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ca1a4c1033ffe44",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d573a837cc7c9053",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4eca80c806c5c1e8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216.5
+  },
+  "right": {
+    "id": "6980415d61cd3948",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c72441dc3209de3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "617db276b9888edc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/010 Markdown Basics.md"
+              }
+            }
+          },
+          {
+            "id": "ba61c1c497d8ce70",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/010 Markdown Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16d0b2072890b3b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/010 Markdown Basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "0b16c94249d62dc7",
+  "lastOpenFiles": [
+    "docs/000 Index.md",
+    "010 Markdown Basics.md",
+    "Programming/00 Content.md",
+    "000 Index.md",
+    "Artificial Intelligence/JetBot.md",
+    "Artificial Intelligence/Multilayer Perceptron.md",
+    "Control Systems.md",
+    "Embedded % Firmware/Chips % Dev boards/AVR microcontroller.md",
+    "Hardware/Serial Communication Interfaces/TTL.md",
+    "010.md"
+  ]
+}

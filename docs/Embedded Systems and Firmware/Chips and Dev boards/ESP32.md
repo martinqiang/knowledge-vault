@@ -1,0 +1,1 @@
+SoC microcontrollers with integrated WIFI and Bluetooth
