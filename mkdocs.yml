@@ -1,3 +1,31 @@
 site_name: Knowledge Vault
+site_description: Personal vault of knowledge
+site_author: Martin Q
 theme:
     name: material
+    palette:
+        # Palette toggle for light mode
+      - scheme: default
+        primary: dark-blue
+        toggle:
+            icon: material/brightness-7 
+            name: Switch to dark mode
+
+            # Palette toggle for dark mode
+      - scheme: slate
+        primary: dark-blue
+        toggle:
+            icon: material/brightness-4
+            name: Switch to light mode
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.arithmatex:
+      generic: true
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
