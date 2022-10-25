@@ -1,0 +1,1 @@
+https://www.digikey.co.nz/en/articles/fundamentals-of-fpgas-what-are-fpgas-and-why-are-they-needed

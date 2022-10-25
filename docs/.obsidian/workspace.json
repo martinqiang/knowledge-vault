@@ -11,12 +11,8 @@
             "id": "0b16c94249d62dc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 Index Page.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -49,6 +45,54 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "FPGA/FPGA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bd4167ae30641fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware/Electrical Concepts/Components/CMOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3b4d0563e720ced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Architecture/ALU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "364a7110ac4bfbc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Architecture/Registers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbdf1116abe8fcaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "001 Markdown Basics.md",
                 "mode": "source",
                 "source": false
@@ -56,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -176,17 +220,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "bb3cfbb780eff1c2",
+  "active": "cbdf1116abe8fcaa",
   "lastOpenFiles": [
-    "002 Control Systems.md",
-    "000 Index Page.md",
-    "index.md",
+    "003 Control Systems.md",
+    "002 MkDocs Setup.md",
     "001 Markdown Basics.md",
-    "Hardware/Serial Communication Interfaces/CAN.md",
-    "Hardware/Serial Communication Interfaces/I2C.md",
-    "Hardware/Hardware Validation/Measurements/Measuring Signal Integrity.md",
-    "Hardware/Hardware Validation/Basics of Hardware Validation.md",
-    "Hardware/Hardware Design/Resources.md",
-    "Hardware/Hardware Design/Altium Designer.md"
+    "index.md",
+    "000 Index Page.md",
+    "Game Development/Game AI.md",
+    "Computer Architecture/Registers.md",
+    "Computer Architecture/ALU.md",
+    "Hardware/Electrical Concepts/Components/CMOS.md",
+    "FPGA/FPGA.md"
   ]
 }

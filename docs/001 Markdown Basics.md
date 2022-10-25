@@ -1,9 +1,10 @@
 # Markdown Basics
-Source:  
+Sources:
+
 - [Basic Syntax - MarkdownGuide.org](https://www.markdownguide.org/basic-syntax/)  
-- [Markdown Cheat-sheet](https://www.markdownguide.org/cheat-sheet/)
-- [Official Obsidian Formatting Guide](https://help.obsidian.md/How+to/Format+your+notes)
-- [MkDocs-Material Reference](https://squidfunk.github.io/mkdocs-material/reference/)
+- [Markdown Cheat-sheet](https://www.markdownguide.org/cheat-sheet/)  
+- [Official Obsidian Formatting Guide](https://help.obsidian.md/How+to/Format+your+notes)  
+- [MkDocs-Material Reference](https://squidfunk.github.io/mkdocs-material/reference/)  
 ---
 ## Links
 ```

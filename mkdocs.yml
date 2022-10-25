@@ -3,6 +3,9 @@ site_description: Personal vault of knowledge
 site_author: Martin Q
 theme:
     name: material
+    icon:
+      logo: octicons/book-16
+    favicon: /_res/icon.png
     font:
       text: Roboto
     features:
@@ -10,7 +13,7 @@ theme:
     palette:
         # Palette toggle for light mode
       - scheme: default
-        primary: 
+        primary: blue
         toggle:
             icon: material/brightness-7 
             name: Switch to dark mode

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/010 Markdown Basics.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/010 Markdown Basics.md",
+            "file": "docs/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/010 Markdown Basics.md",
+            "file": "docs/index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/010 Markdown Basics.md"
+            "file": "docs/index.md"
           }
         }
       }
@@ -126,6 +126,7 @@
   },
   "active": "d0e71183529e9782",
   "lastOpenFiles": [
+    "docs/000 Index Page.md",
     "README.md",
     "docs/010 Markdown Basics.md",
     "docs/000 Index.md",
@@ -134,7 +135,6 @@
     "Hardware/00 Contents.md",
     "Control Systems.md",
     "Hardware/Cypress PSOC.md",
-    "Computer Architecture/Harvard vs Neumann Architecture.md",
-    "Computer Architecture/Finite State Machines.md"
+    "Computer Architecture/Harvard vs Neumann Architecture.md"
   ]
 }
