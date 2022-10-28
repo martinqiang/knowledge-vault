@@ -1,3 +1,4 @@
+# Capacitor
 Capacitor types:
 - Ceramic
 - Electrolytic

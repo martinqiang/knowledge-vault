@@ -4,7 +4,7 @@ ATtiny85 - Mainly used in real-time applications for industrial automation - [In
 Requirements:
 - avr-gcc (compiler)
 - avrdude (upload binary to microcontroller)
-
+[Programming with avrgcc, avrdude](https://www.instructables.com/AVR-Programming-with-Arduino-AVRdude-and-AVR-gcc/)
 Note: [[Make files]]
 
 [Bare Metal programming in Arduino Uno](https://create.arduino.cc/projecthub/milanistef/introduction-to-bare-metal-programming-in-arduino-uno-f3e2b4)

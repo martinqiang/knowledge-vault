@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "4ded86a45091d096",
+        "id": "9dabef4d930fede1",
         "type": "tabs",
         "children": [
           {
-            "id": "0b16c94249d62dc7",
+            "id": "78b5dc9c41ea71bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/010 Markdown Basics.md",
+                "file": "Programming/Make files.md",
                 "mode": "source",
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f3cf53ae6ddd44f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "737d90a64d0ca638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedded Systems and Firmware/JTAG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "481223dfd0dc7a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedded Systems and Firmware/RTOS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/010 Markdown Basics.md"
+                "file": "Embedded Systems and Firmware/RTOS.md"
               }
             }
           },
@@ -106,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/010 Markdown Basics.md",
+                "file": "Embedded Systems and Firmware/RTOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/010 Markdown Basics.md",
+                "file": "Embedded Systems and Firmware/RTOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,20 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "0b16c94249d62dc7",
+  "active": "481223dfd0dc7a3c",
   "lastOpenFiles": [
-    "docs/000 Index.md",
-    "010 Markdown Basics.md",
-    "Programming/00 Content.md",
-    "000 Index.md",
-    "Artificial Intelligence/JetBot.md",
-    "Artificial Intelligence/Multilayer Perceptron.md",
-    "Control Systems.md",
-    "Embedded % Firmware/Chips % Dev boards/AVR microcontroller.md",
-    "Hardware/Serial Communication Interfaces/TTL.md",
-    "010.md"
+    "Embedded Systems and Firmware/JTAG.md",
+    "Embedded Systems and Firmware/Flashing Firmware.md",
+    "QFIL.md",
+    "Programming/Terminal.md",
+    "Tera Term.md",
+    "Putty.md",
+    "index.md",
+    "003 Control Systems.md",
+    "Programming/Bash.md",
+    "Programming/Java.md"
   ]
 }

@@ -1,1 +1,5 @@
-TFT LCD displays
+# LCD Displays
+What types
+- TFT LCD displays
+
+How they work

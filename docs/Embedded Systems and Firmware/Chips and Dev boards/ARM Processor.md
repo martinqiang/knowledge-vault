@@ -4,3 +4,5 @@ The ARM processor architectures are split in 3 different profiles:
 - **Cortex-A** -> Application profiles
 - **Cortex-R** -> Real-time profile
 - **Cortex-M** -> Micro-controller profile
+
+[OpenOCD - debug took](https://gnutoolchains.com/arm-eabi/openocd/)

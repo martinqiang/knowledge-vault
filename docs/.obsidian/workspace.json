@@ -4,103 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "4ded86a45091d096",
+        "id": "9dabef4d930fede1",
         "type": "tabs",
         "children": [
           {
-            "id": "0b16c94249d62dc7",
+            "id": "78b5dc9c41ea71bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Make files.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "1fc0425483bdcfc6",
+            "id": "9f3cf53ae6ddd44f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "737d90a64d0ca638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedded Systems and Firmware/JTAG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "481223dfd0dc7a3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a18494a40a5259f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb3cfbb780eff1c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FPGA/FPGA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bd4167ae30641fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hardware/Electrical Concepts/Components/CMOS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3b4d0563e720ced",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Architecture/ALU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "364a7110ac4bfbc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Architecture/Registers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbdf1116abe8fcaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 Markdown Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +86,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -177,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 Markdown Basics.md"
+                "file": "index.md"
               }
             }
           },
@@ -187,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 Markdown Basics.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 Markdown Basics.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,20 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "cbdf1116abe8fcaa",
+  "active": "481223dfd0dc7a3c",
   "lastOpenFiles": [
-    "003 Control Systems.md",
-    "002 MkDocs Setup.md",
-    "001 Markdown Basics.md",
+    "Embedded Systems and Firmware/RTOS.md",
+    "Embedded Systems and Firmware/JTAG.md",
+    "Embedded Systems and Firmware/Flashing Firmware.md",
+    "QFIL.md",
+    "Programming/Terminal.md",
+    "Tera Term.md",
+    "Putty.md",
     "index.md",
-    "000 Index Page.md",
-    "Game Development/Game AI.md",
-    "Computer Architecture/Registers.md",
-    "Computer Architecture/ALU.md",
-    "Hardware/Electrical Concepts/Components/CMOS.md",
-    "FPGA/FPGA.md"
+    "003 Control Systems.md",
+    "Programming/Bash.md"
   ]
 }

@@ -6,5 +6,6 @@
   "rightToLeft": false,
   "spellcheck": true,
   "showFrontmatter": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false
 }
