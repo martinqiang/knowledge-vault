@@ -9,11 +9,13 @@ Examples of DMM
 - Tektronix
 	- OpenChoice
 
-## Power Supply
+## DC Power Supply
 
 ## Function Generator
 
 ## Soldering Iron
+
+## Isopropyl Alcohol
 
 ## References
 - [Cadence PCB - Essential Electronics Laboratory Equipment](https://resources.pcb.cadence.com/blog/2022-electronics-laboratory-equipment-list-essentials)

@@ -16,5 +16,9 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "useMarkdownLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "_res",
+  "newLinkFormat": "relative"
 }

@@ -7,5 +7,10 @@
   "spellcheck": true,
   "showFrontmatter": false,
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "livePreview": false,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "docs/_res",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "docs"
 }
