@@ -28,7 +28,7 @@ Code here
 ```
 ````
 
-Code Blocks can also have syntax highlighting:
+Code Blocks can also have syntax highlighting: [Supported Languages](https://prismjs.com/#supported-languages)
 ```vhdl title="Title for code blocks!" linenums="1"
 library IEEE;
 use IEEE.std_logic_1164.all;
@@ -50,11 +50,12 @@ end architecture behaviour;
 
 ---
 ## Math Equations
-Markdown with latex equation syntax is supported
+Markdown with latex equation syntax is supported - From MathJax
 Source: 
 - [GitHub Docs - Markdown Mathematical Expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
 - [Latex Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 - [Cheat-sheet](http://tug.ctan.org/info/undergradmath/undergradmath.pdf)  
+- [MathJax Cheatsheet](https://jojozhuang.github.io/tutorial/mathjax-cheat-sheet-for-mathematical-notation/)
 
 $$ x = -b\pm\sqrt{b^2-4ac} \over 2a $$
 ```
@@ -67,6 +68,8 @@ Markdown can also use HTML code for formatting
 <p>A paragraph in <b>HTML</b> displayed as code</p>
 ___
 ## Mermaid Diagrams
+Cheat sheet: [Link](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/)
+
 ````
 ```mermaid 
 graph TD 
