@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/001 Markdown Basics.md",
-                "mode": "preview",
+                "file": "docs/Embedded Systems and Firmware/Chips and Dev boards/AVR microcontroller.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/001 Markdown Basics.md"
+                "file": "docs/Embedded Systems and Firmware/Chips and Dev boards/AVR microcontroller.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/001 Markdown Basics.md",
+                "file": "docs/Embedded Systems and Firmware/Chips and Dev boards/AVR microcontroller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/001 Markdown Basics.md",
+                "file": "docs/Embedded Systems and Firmware/Chips and Dev boards/AVR microcontroller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,15 +138,15 @@
   },
   "active": "607e69f1c114b467",
   "lastOpenFiles": [
-    "Embedded Systems and Firmware/JTAG.md",
-    "Embedded Systems and Firmware/Flashing Firmware.md",
-    "QFIL.md",
-    "Programming/Terminal.md",
-    "Tera Term.md",
-    "Putty.md",
-    "index.md",
-    "003 Control Systems.md",
-    "Programming/Bash.md",
-    "Programming/Java.md"
+    "docs/Embedded Systems and Firmware/Bare Metal Programming.md",
+    "docs/Hardware/Hardware Validation/Measurements/Measuring Signal Integrity.md",
+    "docs/Hardware/Hardware Validation/Basics of Hardware Validation.md",
+    "docs/Hardware/Hardware Validation/NI LabView.md",
+    "docs/Hardware/Hardware Validation/NI MAX.md",
+    "docs/Hardware/Hardware Validation/Useful tools.md",
+    "docs/Emacs.md",
+    "docs/001 Markdown Basics.md",
+    "docs/003 Control Systems.md",
+    "docs/002 MkDocs Setup.md"
   ]
 }
